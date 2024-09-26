@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @peter-njuku
-- 👀 I’m interested in learning information security
-- 📫 How to reach me call, whatsapp or text me on 0793455084 
-    instagram @njukunjenga
-    facebook @peter njuku
+- 👀 I’m interested in learning Data Science
+- 📫 How to reach me call, whatsapp or text me on +254704317460 or
+-  instagram @njukunjenga or
+-  facebook @peter njuku
     
 
 <!---
