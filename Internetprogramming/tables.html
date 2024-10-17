@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+    <style>
+        td, th{
+            font-size: 20px;
+            border: 1px solid black;
+        }
+        #table1{
+            margin: 20px;
+        }
+        #table2{
+            margin: 30px;
+        }
+        .heading{
+            color: green;
+        }
+        #h, #H{
+            color: red;
+        }
+       hr{
+        color: white;
+        size: 50px;
+       }
+    </style>
+</head>
+<body>
+    <h1 class="heading" id="h" style="color: blue;">Tables</h1>
+    <h1 class="heading" id="H" style="color: rgb(195, 0, 255);">Tables1</h1>
+    <table id="table1">
+        <th>7:00pm</th>
+        <th>7:30pm</th>
+        <th>8:00pm</th>
+        <tr>
+            <td colspan="3">The Sunday Night Movie</td>
+        </tr>
+        <tr>
+            <td>Perry Mason</td>
+            <td>Candid Camera</td>
+            <td>What's My Line</td>
+        </tr>
+        <tr>
+            <td>Bonanza</td>
+            <td colspan="2">The Wackiest Ship in the Army</td>
+        </tr>
+    </table>
+    <table id="table2">
+        <tr>
+            <td>apples</td>
+            <td rowspan="3">oranges</td>
+            <td>pears</td>
+        </tr>
+        <tr>
+            <td>bananas</td>
+            <td rowspan="2">pineapples</td>
+        </tr>
+        <tr>
+            <td>lychees</td>
+        </tr>
+    </table>
+    <hr>
+    <a href="https://facebook.com">facebook</a>
+</body>
+</html>
